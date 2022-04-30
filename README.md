@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 My first Git learning experience
 ------- Add line
+
+**** git fetch
